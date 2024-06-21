@@ -5,6 +5,10 @@
 ### Software engineering, Data science, Data engineering, Physics, Entrepreneurship and Philosophy
 
 
+
+
 ### Projects 🐾
 
+
+- [Data science decoded yoytube channel](https://www.youtube.com/@Datasciencedecodedhistory) - I delve into historical papers that have significantly influenced modern data science
 - [Biggish data benchmarking](https://github.com/DanielAronovich/biggish-data-benchmarking) - A benchmarking project to compare the performance and usability of various data processing tools on a single machine.
