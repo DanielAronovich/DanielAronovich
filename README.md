@@ -11,4 +11,5 @@
 
 
 - [Data Science Decoded Youtube channel](https://www.youtube.com/@Datasciencedecodedhistory) - I delve into historical papers that have significantly influenced modern data science
+- [DataFlint](https://github.com/dataflint/spark) - DataFlint is an open-source Performance Monitoring tool for Apache Spark, built for big data engineers.
 - [Biggish data benchmarking](https://github.com/DanielAronovich/biggish-data-benchmarking) - A benchmarking project to compare the performance and usability of various data processing tools on a single machine.
